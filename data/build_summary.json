@@ -1,0 +1,64 @@
+{
+  "rows": 9996,
+  "lemmas": 694,
+  "cells": 82,
+  "cell_cap": 272,
+  "lemma_cap": 30,
+  "seed": 20261126,
+  "funnel": {
+    "candidates": 38358,
+    "dropped_generator_disagrees": 147,
+    "dropped_not_in_fasttext_vocabulary": 761,
+    "dropped_capitalised_lemma": 30,
+    "dropped_no_stage": 1,
+    "usable_forms": 37419,
+    "lemmas_with_enough_forms": 694,
+    "pool_forms": 15820
+  },
+  "rows_per_lemma_min_median_max": [
+    12,
+    14,
+    30
+  ],
+  "split_lemma_rows": {
+    "train": 8000,
+    "test": 1003,
+    "dev": 993
+  },
+  "split_cell_rows": {
+    "train": 7040,
+    "dev": 1426,
+    "test": 1530
+  },
+  "split_random_rows": {
+    "dev": 1000,
+    "train": 7996,
+    "test": 1000
+  },
+  "frequency_min_median_max": [
+    3,
+    11,
+    6706
+  ],
+  "number": {
+    "pl": 4062,
+    "sg": 5934
+  },
+  "possession": {
+    "none": 3742,
+    "3": 3661,
+    "1sg": 881,
+    "2sg": 394,
+    "2sg.formal": 211,
+    "1pl": 1107
+  },
+  "case": {
+    "gen": 1418,
+    "dat": 1442,
+    "loc": 1151,
+    "acc": 1677,
+    "abl": 1216,
+    "nom": 2006,
+    "ins": 1086
+  }
+}

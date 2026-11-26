@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/raw/
+work/
+*.bin
+*.gz
+.venv/
+.DS_Store

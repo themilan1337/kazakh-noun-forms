@@ -1,0 +1,10 @@
+Data licences
+- data/kazakh_noun_embeddings_10k.txt: vectors selected from the fastText Common Crawl + Wikipedia Kazakh model
+  (cc.kk.300), Creative Commons Attribution-Share-Alike 3.0. Grave et al. (2018), LREC 2018.
+- Frequencies in data/kazakh_nouns_10k.txt: counts from the Leipzig Corpora Collection, kaz_newscrawl_2016_1M.
+  (c) 2025 Universität Leipzig / Sächsische Akademie der Wissenschaften / InfAI. Licence for downloadable corpora: CC BY,
+  as stated on https://wortschatz-leipzig.de/en/usage (two quotations of that page were read: a search-result copy
+  last updated 2026-10-22, and footnote 7 of Eckart et al., "Crawling Under-Resourced Languages", DCLRL 2022; the page itself
+  could not be opened because of a bot check). The same page puts the web interface data under CC BY-NC.
+- Lemma, tag and morph columns: output of Apertium-kaz (GPL-3.0), https://github.com/apertium/apertium-kaz.
+- Everything else in data/: CC BY 4.0. Code: MIT.
